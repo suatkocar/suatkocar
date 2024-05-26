@@ -14,7 +14,7 @@ A film management system developed using Java Servlets and JSP. It includes CRUD
 - [Project Link](https://github.com/suatkocar/FilmMVC)
 - Technologies: Java, Servlets, JSP, MySQL
 
-### FilmRestful (The Film RESTful API)
+### FilmRestful (RESTful API)
 A RESTful web service developed using Java Servlets. It supports data in various formats (JSON, XML, TEXT).
 - [Project Link](https://github.com/suatkocar/FilmRestful)
 - Technologies: Java, MySQL, Gson, Jakarta XML Bind
