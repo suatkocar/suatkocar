@@ -5,7 +5,6 @@ Aspiring software engineer currently pursuing a Master’s in Computer Science a
 
 - 🌍 Location: Manchester, United Kingdom
 - 🎓 Education: MSc Computer Science, Manchester Metropolitan University
-- 💼 Work Experience: Lawyer and Software Engineer Intern
 - 📫 Contact: suatkocar.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/suatkocar)
 
 ## 🚀 Projects
