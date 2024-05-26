@@ -29,7 +29,7 @@ A customer queue management system developed using C#.
 - [Project Link](https://github.com/suatkocar/QueueOfCustomers)
 - Technologies: C#, Windows Forms
 
-### Binary Search Tree for Customer Data Management
+### Binary Search Tree for Data Management
 A binary search tree application developed using C# to manage customer data.
 - [Project Link](https://github.com/suatkocar/BinarySearchTreeCustomerManagement)
 - Technologies: C#
