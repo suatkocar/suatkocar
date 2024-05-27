@@ -30,7 +30,7 @@ A customer queue management system developed using C#.
 
 ### Binary Search Tree Data Management
 A binary search tree application developed using C# to manage customer data.
-- [Project Link](https://github.com/suatkocar/BinarySearchTreeCustomerManagement)
+- [Project Link](https://github.com/suatkocar/BinarySearchTreeDataManagement)
 - Technologies: C#
 
 ### Graph-Based Social Network Analysis
