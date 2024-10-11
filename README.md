@@ -11,7 +11,7 @@ Aspiring Software Engineer with a strong foundation in cloud development, advanc
 ### Food Ordering System
 A full-stack web application designed to enhance the online food ordering experience through dynamic menu optimisation based on previous order data.
 - [Project Link](https://github.com/suatkocar/food-ordering-system)
-- Technologies: Node.js, Express.js, React.js, Python, MySQL, Redis, WebSocket
+- Technologies: Node.js, Express.js, React.js, Python, MySQL, Redis, Redux, WebSocket
 
 ### FilmMVC (HTTP/MVC Web Application)
 A film management system developed using Java Servlets and JSP. It includes CRUD operations and external API integration.
