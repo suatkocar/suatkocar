@@ -1,7 +1,7 @@
 # Hello, I'm Suat Kocar! 👋
 
 ## 💻 About Me
-Aspiring software engineer currently pursuing a Master’s in Computer Science at Manchester Metropolitan University. Specialising in cloud development, advanced programming techniques, and information security. I have a strong academic background and practical experience in various programming languages and technologies.
+Aspiring Software Engineer/Full Stack Developer with a strong foundation in cloud development, advanced programming techniques, and information security. Currently pursuing a Master’s in Computer Science at Manchester Metropolitan University, with hands-on experience in full-stack development and designing scalable web applications. Proficient in various programming languages, frameworks, and cloud technologies, I’m passionate about optimising user experiences and enhancing system efficiency.
 
 - 🌍 Location: Manchester, United Kingdom
 - 🎓 Education: MSc Computer Science, Manchester Metropolitan University
@@ -45,10 +45,10 @@ A social network analysis application developed using graph data structures in C
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** Java, C#, Python
-- **Databases:** MySQL, SQLite, Oracle APEX
+- **Databases:** SQL, MySQL, PostgreSQL, SQLite, Oracle APEX, NoSQL, MongoDB
 - **Version Control:** Git
-- **Web Development:** HTML, CSS, JavaScript (ES6+), PHP
-- **Frameworks/Libraries:** Vite, React, jQuery, Bootstrap, Axios, Tailwind CSS, SCSS
+- **Web Development:** HTML, CSS, JavaScript (ES6+), TypeScript, PHP
+- **Frameworks/Libraries:** Vite, React.js, Express.js, Next.js, jQuery, Bootstrap, Axios, Tailwind CSS, SCSS
 - **IDEs:** Visual Studio, Visual Studio Code, IntelliJ IDEA, PyCharm, Eclipse, NetBeans, Jupyter, Xcode, Sublime Text
 - **Server & Middleware:** Apache Tomcat, Nginx, XAAMP, WordPress
 - **Networking & Simulation:** Cisco Packet Tracer, Wireshark
