@@ -8,6 +8,11 @@ Aspiring software engineer currently pursuing a Master’s in Computer Science a
 - 📫 Contact: suatkocar.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/suatkocar)
 
 ## 🚀 Projects
+### Food Ordering System
+A full-stack web application designed to enhance the online food ordering experience through dynamic menu optimisation based on previous order data.
+- [Project Link](https://github.com/suatkocar/food-ordering-system)
+- Technologies: Node.js, Express.js, React.js, Python, MySQL, Redis, WebSocket
+
 ### FilmMVC (HTTP/MVC Web Application)
 A film management system developed using Java Servlets and JSP. It includes CRUD operations and external API integration.
 - [Project Link](https://github.com/suatkocar/FilmMVC)
