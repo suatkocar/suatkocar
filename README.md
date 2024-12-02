@@ -1,7 +1,7 @@
 # Hello, I'm Suat Kocar! 👋
 
 ## 💻 About Me
-Aspiring Software Engineer with a strong foundation in cloud development, advanced programming techniques, and information security. Currently pursuing a Master’s in Computer Science at Manchester Metropolitan University, with hands-on experience in full-stack development and designing scalable web applications. Proficient in various programming languages, frameworks, and cloud technologies, I’m passionate about optimising user experiences and enhancing system efficiency.
+Aspiring Software Engineer with a Master's in Computer Science from Manchester Metropolitan University. I specialize in cloud development and full-stack development, with expertise in Java, JavaScript, TypeScript, Python, C#, AWS, Next.js, Node.js, and React. I focus on building scalable web applications and optimizing user experiences, with a keen interest in continuous learning and technological innovation.
 
 - 🌍 Location: Manchester, United Kingdom
 - 🎓 Education: MSc Computer Science, Manchester Metropolitan University
