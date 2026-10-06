@@ -217,12 +217,6 @@
   <img src="https://streak-stats.demolab.com/?user=suatkocar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suatkocar&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
 ---
 
 <div align="center">
